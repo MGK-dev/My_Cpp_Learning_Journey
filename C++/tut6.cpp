@@ -14,15 +14,20 @@ int main()
 {
     // int a = 4, b = 5;
     // cout<<"Operators in C++:"<<endl;
+    //Arithmetic operator
     // cout<<"The sum of a + b = "<<a+b<<endl;
     // cout<<"The sum of a - b = "<<a-b<<endl;
     // cout<<"The sum of a * b = "<<a*b<<endl;
     // cout<<"The sum of a / b = "<<a/b<<endl;
-    // cout<<"The sum of a % b = "<<a%b<<endl;
+    // cout<<"The sum of a % b = "<<a%b<<endl;4
     // cout<<"The sum of a++ = "<<a++<<endl;
-    // cout<<"The sum of  -- = "<<a--<<endl;
+    // cout<<"The sum of a-- = "<<a--<<endl;
     // cout<<"The sum of ++a = "<<++a<<endl;
     // cout<<"The sum of --a = "<<--a<<endl;
+    // cout<<endl;
+    //Asignment operators
+    //int a = 3, b = 5;
+    // char d = "d";
     // //comparison operators
     // cout<<"Comparison Operators in C++:"<<endl;
     // cout<<"The value of a == b is "<<(a==b)<<endl;
