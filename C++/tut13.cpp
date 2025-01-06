@@ -60,12 +60,14 @@ int main()
     // cout << "The value of *(p+1) is " << *(p+1) << endl;
     // cout << "The value of *(p+2) is " << *(p+2) << endl;
     // cout << "The value of *(p+3) is " << *(p+3) << endl;
-    cout << p<< endl;
-    cout << *p << endl;
-    cout << *(p++) << endl;
-    cout << *(p) << endl;
-    cout << *(++p) << endl;
-    cout << *(p++) << endl;
+    // cout << p<< endl;
+    // cout << *p << endl;
+    // cout << *(p++) << endl;
+    // cout << *(p) << endl;
+    // cout << *(++p) << endl;
+    // cout << *(p++) << endl;
+
+    cout << "Size of int: " << sizeof(int) << " bytes";
 
     return 0;
 }
